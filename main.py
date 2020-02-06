@@ -3,7 +3,7 @@ def StartScherm():
 def LevelOne():
   pass
 def LevelTwo():
-  pass
+  print("peepee, poopoo")
 
 StartScherm()
 LevelOne()
